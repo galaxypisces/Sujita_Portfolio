@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sujita
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Ml and AI
+- 🌱 I’m currently learning ML and AI
 - 📫 How to reach me sujitacheeti81@gmail.com
 
 <!---
