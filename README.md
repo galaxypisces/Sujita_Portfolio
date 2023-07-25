@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Sujita
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ML and AI
-- 📫 How to reach me sujitacheeti81@gmail.com
+#Sujita Portfolio
 
-<!---
-galaxypisces/galaxypisces is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#Project 1 : Walmart Sales Forecasting
+*Optimized and deployed a machine learning model to predict the sales of the Walmart for the next 12 weeks.
+*Models Used: Facebook Prophet, ARIMA.
+*Operations Perfomed:EDA, visualizations: matplotlib & seaborn.
